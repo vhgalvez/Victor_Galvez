@@ -111,7 +111,7 @@
   background-color: #FF0000 }
 .button.button-youtube:hover,
 .button.button-youtube:hover:before {
-    content: 'Este es mi segundo canal de YouTube, donde subo vlogs y contenido más personal :) No, no ese tipo de contenido.';
+    content: 'canal de youtube';
     white-space: initial; }
 
 /* Slides */
