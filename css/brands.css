@@ -160,10 +160,10 @@
     white-space: initial; }
 
 /* Mercha */
-.button.button-sponsors {
+.button.button-web {
   color: #000000;
   background-color: #fffc00 }
-.button.button-sponsors:hover,
-.button.button-sponsors:hover:before {
-    content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
+.button.button-web:hover,
+.button.button-web:hover:before {
+    content: 'web informacion';
     white-space: initial; }
