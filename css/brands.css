@@ -156,7 +156,7 @@
   background-color: #ff5500 }
 .button.button-kofi:hover,
 .button.button-kofi:hover:before {
-    content: 'Si quieres, puedes comprarme un cafecito usando este link.';
+    content: 'Si quieres, puedes comprarme un cafecito usando  link.';
     white-space: initial; }
 
 /* Mercha */
