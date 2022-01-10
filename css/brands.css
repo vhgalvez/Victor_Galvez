@@ -93,7 +93,7 @@
   background-color: #7b16ff }
 .button.button-slack:hover,
 .button.button-slack:hover:before {
-  content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
+  content: 'TEXTO DE EJEMPLO';
   white-space: initial; }
 
 /* Kit */
@@ -102,7 +102,7 @@
   background-color: #10c694 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Aquí vas a encontrar la lista completa y actualizada de todo el hardware que uso para trabajar y hacer mis videos de YouTube.';
+    content: 'TEXTO DE EJEMPLO';
     white-space: initial; }
 
 /* YouTube */
@@ -111,7 +111,7 @@
   background-color: #FF0000 }
 .button.button-youtube:hover,
 .button.button-youtube:hover:before {
-    content: 'canal de youtube';
+    content: 'Mi canal de Youtube';
     white-space: initial; }
 
 /* Slides */
@@ -120,7 +120,7 @@
   background-color: #212c3d }
 .button.button-slides:hover,
 .button.button-slides:hover:before {
-    content: 'Mis slides de cuando doy charlas en conferencias.';
+    content: 'TEXTO DE EJEMPLO.';
     white-space: initial; }
 
 /* Mercha */
@@ -129,7 +129,7 @@
   background-color: #fffc00 }
 .button.button-mercha:hover,
 .button.button-mercha:hover:before {
-    content: 'Esta es mi tienda de merchandising, puedes encontrar remeras/camisetas/poleras y otro tipo de cosas :)';
+    content: 'TEXTO DE EJEMPLO';
     white-space: initial; }
 
 /* Reddit */
@@ -138,7 +138,7 @@
   background-color: #FF4500 }
 .button.button-reddit:hover,
 .button.button-reddit:hover:before {
-    content: 'Mi subreddit, como un pequeño foro para hacer preguntas sobre mis videos o cualquier tema relacionado con el contenido de mi canal.';
+    content: 'TEXTO DE EJEMPLO.';
     white-space: initial; }
 
 /* Mail */
@@ -147,7 +147,7 @@
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'Enviar Email';
     white-space: initial; }
 
 /* Ko-Fi */
@@ -156,7 +156,7 @@
   background-color: #ff5500 }
 .button.button-kofi:hover,
 .button.button-kofi:hover:before {
-    content: 'Si quieres, puedes comprarme un cafecito usando  link.';
+    content: 'TEXTO DE EJEMPLO';
     white-space: initial; }
 
 /* Mercha */
@@ -165,5 +165,5 @@
   background-color: #fffc00 }
 .button.button-web:hover,
 .button.button-web:hover:before {
-    content: 'web informacion';
+    content: 'Web Informacion';
     white-space: initial; }
