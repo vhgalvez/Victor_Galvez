@@ -167,3 +167,12 @@
 .button.button-web:hover:before {
     content: 'Web Informacion';
     white-space: initial; }
+
+    /* medium */
+.button.button-medium {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-medium:hover,
+.button.button-medium:hover:before {
+    content: 'Medium aportes a la comunidad de Desarolladores';
+    white-space: initial; }
